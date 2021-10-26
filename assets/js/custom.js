@@ -77,10 +77,10 @@ function myFunction() {
   //======================
 
 
-  $(".team-carousel").owlCarousel({
+  $(".list_carousel").owlCarousel({
     loop: true,
     margin: 30,
-    autoplay: true,
+    autoplay: false,
     smartSpeed: 1500,
     nav: false,
     dots: false,
